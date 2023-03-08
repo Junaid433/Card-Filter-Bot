@@ -9,6 +9,7 @@ Usage :
 
 ```
 npm install pm2
+npm install telegraf
 pm2 start filter.js
 ```
 
