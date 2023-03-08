@@ -12,7 +12,6 @@ npm install pm2
 pm2 start filter.js
 ```
 
-/filter
 You can use in these formats :
 
 ```
